@@ -1,1 +1,1 @@
-# .github
+Most enterprise data breaches occur in companies or business units with excellent adherence to regulatory provisions. Compliant Insecurity™ is an advisory service offered by Netspective to review your company’s cyber platform and identify potential risks, etc. associated with an over-reliance on humans instead of machines.
